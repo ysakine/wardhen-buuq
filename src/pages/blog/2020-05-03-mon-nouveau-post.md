@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Mon nouveau post
-date: 2020-05-03T14:52:26.307Z
+date: 2020-05-03T14:55:32.910Z
 description: a new post
 featuredpost: true
 featuredimage: /img/coffee-gear.png
